@@ -51,5 +51,5 @@ pip install -r requirements.txt
 ## Team Members
 - [Hatim Rehmanjee](https://github.com/Hatimqr)
 - [Emily Huang](https://github.com/emilyjhuang)
-- Sudiksha Kalepu
+- [Sudiksha Kalepu](https://github.com/sudikshakalepu)
 - Adrian Yan
