@@ -30,7 +30,7 @@ The goal of this project is to develop a machine learning-based ranking system t
 **1. Clone the Github Repository**
 
 ```
-git clone https://github.com/emilyjhuang/F1qualifying.git
+git clone https://github.com/sudikshakalepu/F1qualifying.git
 ```
 
 **2. Change Directory to Cloned Repository**
